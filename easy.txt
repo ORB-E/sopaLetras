@@ -1,0 +1,93 @@
+Miedo,Sensación causada por un peligro o amenaza  
+Risas,Sonido que emitimos al encontrar algo gracioso   
+Libro,Objeto con páginas que contienen texto o imágenes
+Playa,Lugar de arena junto al mar o al océano, 
+Gotas,Pequeñas porciones de líquido
+Perro,Animal doméstico conocido como el mejor amigo del hombre. 
+Mesa,Mueble con patas donde se colocan cosas, 
+Luna,Satélite natural de la Tierra que vemos en el cielo. 
+Copa,Vaso usado para beber vino o champán
+Avión,Medio de transporte aéreo   
+Cielo,Espacio sobre la Tierra que parece azul de día  
+Llave,Objeto usado para abrir cerraduras  
+Soles,Estrellas que brillan en el cielo durante el día
+Hojas,Parte verde de los árboles o plantas
+Tinto,Vino de color rojo oscuro   
+Raton,Pequeño mamífero roedor
+Vidas,Lo que poseen todos los seres humanos,   
+Trigo,Cereal utilizado para hacer harina  
+Motor,Máquina que convierte energía en movimiento 
+Carro,Medio de transporte con ruedas,  
+Casa,Lugar donde viven las personas,  
+Arena,Grano que forma las playas o desiertos,  
+Fuego,Elemento que quema y produce calor  
+Dinero,Medio de intercambio usado en la economía   
+Cinta,Tira delgada de material flexible
+Burro,Animal de carga similar al caballo  
+Canto,Acción de emitir sonidos musicales con la voz   
+Mente,Capacidad intelectual de las personas,   
+Reyes,Personas que gobiernan un reino, 
+Silla,Mueble con respaldo donde una persona puede entarse.
+Queso,Producto lácteo sólido hecho de leche,   
+Mano,Parte del cuerpo al final del brazo 
+Fresa,Fruta pequeña de color rojo y sabor dulce   
+Viento,Corriente de aire en movimiento, 
+Gallo,Ave de corral que canta al amanecer 
+Dulce,Sabor contrario al amargo o salado  
+Huevo,Producto alimenticio producido por las aves 
+Jabón,Sustancia que se usa para lavar, 
+Lloro,Acción de derramar lágrimas 
+Ruido,Sonido fuerte y molesto, 
+Pasos,Movimiento de los pies al caminar   
+Pared,Estructura vertical que delimita un espacio 
+Tarde,Parte del día que sigue al mediodía 
+Agua,Líquido esencial para la vida,   
+Reloj,Instrumento que indica la hora,  
+Calle,Vía pública por donde circulan los vehículos y personas. 
+Estar,Verbo que indica una posición o estado,  
+Tazas,Recipientes pequeños para beber café o té   
+Rosa,Flor de color rojo, blanco o amarillo,   
+Salsa,Mezcla líquida de ingredientes para acompañar comida.
+Dardo,Proyectil pequeño y puntiagudo lanzado a un blanco. JirafaAnimal africano de cuello muy largo 
+Sabor,Sensación percibida en la boca al comer o beber 
+Lente,Objeto que sirve para ver mejor a través de él  
+Mono,Animal primate que puede trepar árboles, 
+Pista,Información o indicio que ayuda a resolver algo 
+Marea,Movimiento periódico del agua del mar,   
+Llama,Lengua de fuego que sale de una combustión  
+Venas,Vasos sanguíneos que llevan la sangre de vuelta al corazón. 
+Grano,Semilla de los cereales como el trigo o maíz
+Rana,Anfibio que salta y vive cerca del agua, 
+Pacto,Acuerdo formal entre dos o más partes,   
+Hoja,Parte plana y verde de una planta   
+Besos,Muestra de afecto que se da con los labios  
+Zorro,Mamífero salvaje conocido por su astucia,
+Fruta,Alimento comestible que crece en árboles o plantas. Brota,Acción de salir una planta o flor de la tierra  
+Sueño,Estado en el que se duerme y se tienen imágenes mentales. 
+Nubes,Acumulación de vapor de agua en el cielo,
+Manto,Pieza de tela que cubre o protege algo,  
+Flores,Plantas que producen colores y aromas agradables
+Huellas,Señales que dejan los pies o manos al tocar una superficie. 
+Roble,Tipo de árbol fuerte y duradero, 
+Coma,Signo de puntuación usado en oraciones,  
+Pardo,Color marrón grisáceo,   
+Suelo,Superficie sobre la que se camina   
+Verbo,Clase de palabra que indica acción o estado 
+Circo,Espectáculo con animales y acróbatas
+Dulce,Producto con sabor azucarado
+Claro,Lugar sin sombras o transparente,
+Tecla,Cada una de las piezas de un piano o teclado
+Veloz,Que tiene gran rapidez,  
+Cueva,Cavidad natural subterránea 
+Picos,Parte puntiaguda de una montaña o ave,   
+Faro, Torre alta que emite luz para guiar a los barcos
+Vacio,Espacio sin contenido,   
+Cuero,Material de origen animal utilizado en vestimenta.  
+Susto,Impresión repentina causada por el miedo,
+Poeta,Persona que escribe poesía  
+Menta,Planta con hojas aromáticas y refrescantes  
+Pulso,Latido rítmico del corazón que se percibe en las arterias.
+Patio,Espacio abierto en el centro de una casa o edificio. 
+Reino,Territorio gobernado por un rey o una reina 
+Cinta,Banda delgada de material flexible  
+Tenso,Algo que está estirado o en tensión 

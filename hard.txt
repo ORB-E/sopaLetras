@@ -1,0 +1,91 @@
+| Telefonía     | Tecnología que permite la comunicación a distancia. |
+| Bicicletas    | Vehículos de dos ruedas impulsados por pedales.     |
+| Arquitecto    | Profesional que diseña edificios y estructuras.     |
+| Mariposas     | Insectos con alas coloridas que vuelan.             |
+| Fotografía    | Arte de capturar imágenes con una cámara.           |
+| Computador    | Máquina electrónica para procesar información.      |
+| Alcachofa     | Hortaliza comestible con hojas verdes.              |
+| Bibliotecas   | Lugares donde se almacenan libros para leer o prestar. |
+| Inundación    | Acumulación excesiva de agua en una zona.           |
+| Estaciones    | Divisiones del año con características climáticas.  |
+| Restaurante   | Establecimiento donde se sirven comidas.            |
+| Escaleritas   | Serie de peldaños que sirven para subir o bajar.    |
+| Microondas    | Electrodoméstico para calentar alimentos rápidamente. |
+| Espectador    | Persona que asiste a un evento para observar.       |
+| Universales  | Conceptos o verdades que aplican en todas partes.    |
+| Matemáticas   | Ciencia que estudia números y sus relaciones.       |
+| Cosméticos    | Productos utilizados para embellecer la piel.       |
+| Electricidad  | Energía que alimenta luces y electrodomésticos.     |
+| Reproductor   | Dispositivo que reproduce música o videos.          |
+| Manzanilla    | Planta medicinal utilizada para hacer infusiones.   |
+| Aeropuertos   | Lugares donde aterrizan y despegan aviones.         |
+| Investigador  | Persona que realiza estudios para obtener conocimiento. |
+| Enfermidades  | Alteraciones de la salud que afectan al cuerpo.     |
+| Ferrocarril   | Sistema de transporte sobre rieles.                 |
+| Embarcadero   | Lugar donde se abordan o desembarcan barcos.        |
+| Fotocopiado   | Proceso de replicar documentos mediante una máquina.|
+| Enciclopedia  | Obra que contiene información sobre varios temas.   |
+| Armonizador   | Objeto o persona que ayuda a equilibrar o coordinar.|
+| Increíbles    | Que resultan sorprendentes o difíciles de creer.    |
+| Conocimiento  | Conjunto de saberes adquiridos por experiencia o estudio. |
+| Maravillosa   | Que es extraordinaria o causa admiración.           |
+| Asombrosas    | Cosas que producen gran sorpresa o admiración.      |
+| Tradicional   | Algo que sigue las costumbres o prácticas antiguas. |
+| Circulación   | Movimiento continuo de un fluido en un sistema cerrado. |
+| Multiplicar   | Operación matemática que consiste en sumar un número varias veces. |
+| Astronáutica  | Ciencia que se ocupa del viaje y exploración espacial. |
+| Guardería     | Lugar donde cuidan niños pequeños mientras sus padres trabajan. |
+| Literaturas   | Obras escritas de valor artístico.                  |
+| Peluquerías   | Establecimientos donde se corta y arregla el cabello. |
+| Salvavidas    | Objeto o persona que ayuda a salvar vidas en situaciones de peligro. |
+| Adaptadores   | Dispositivos que permiten la conexión entre sistemas diferentes. |
+| Comodidades   | Ventajas o facilidades que hacen la vida más agradable. |
+| Traductores   | Personas que convierten texto o palabras de un idioma a otro. |
+| Recolección   | Acción de recoger o recolectar algo.                |
+| Transportar   | Llevar algo de un lugar a otro.                     |
+| Entretenida   | Algo que es divertido o mantiene la atención.       |
+| Conservador   | Persona que prefiere las tradiciones y no acepta cambios rápidos. |
+| Baloncestos   | Deportes de equipo en los que se encestan pelotas.  |
+| Refrigerada   | Algo que ha sido enfriado para su conservación.     |
+| Conectividad  | Capacidad de una red o dispositivo para conectarse a otros. |
+| Fotovoltaica  | Tecnología que convierte la luz solar en electricidad. |
+| Internacional | Que involucra a más de un país o nación.            |
+| Aplicaciones  | Programas informáticos diseñados para realizar tareas específicas. |
+| Conservación  | Acción de proteger o mantener algo en buen estado.  |
+| Cincuentena   | Período de 50 días.                                |
+| Transparente  | Algo que deja pasar la luz sin impedir la visión clara. |
+| Impresionan   | Que causan una gran impresión o admiración.         |
+| Desarrollo    | Proceso de crecimiento o avance de algo.            |
+| Comportarse   | Forma en la que una persona actúa en situaciones específicas. |
+| Instrucción   | Proceso de enseñar o dar órdenes a alguien.         |
+| Desafiantes   | Que presentan un reto o dificultad significativa.   |
+| Celebración   | Acción de conmemorar o festejar un acontecimiento especial. |
+| Generadores   | Dispositivos que producen energía eléctrica.        |
+| Superficial   | Que solo afecta la capa exterior de algo.           |
+| Exploración   | Acción de investigar o buscar algo desconocido.     |
+| Entretenido   | Algo que divierte o capta la atención de alguien.   |
+| Jurisdicción  | Poder o autoridad legal sobre una zona o asunto.    |
+| Carpinteros   | Profesionales que trabajan con la madera.           |
+| Afortunados   | Personas que tienen buena suerte.                   |
+| Transformar   | Cambiar la forma o la esencia de algo.              |
+| Respiratorio  | Sistema que facilita la entrada y salida de aire en el cuerpo. |
+| Deshidratada  | Que ha perdido agua o humedad.                      |
+| Neumonías     | Enfermedades que inflaman los pulmones.             |
+| Jubilaciones  | Retiro de una persona de su trabajo por edad avanzada. |
+| Astronómico   | Relativo a las estrellas o cuerpos celestes.        |
+| Alimentador   | Aparato o persona que proporciona alimentos.        |
+| Comercializ   | Acción de vender productos o servicios al público.  |
+| Alimentación  | Conjunto de nutrientes que una persona consume para subsistir. |
+| Misteriosos   | Que no se pueden explicar fácilmente o son enigmáticos. |
+| Desconocido   | Algo que no es familiar o que no se ha visto antes. |
+| Calculadora   | Dispositivo que realiza operaciones matemáticas.    |
+| Arqueología   | Ciencia que estudia las civilizaciones antiguas.    |
+| Restaurador   | Persona o cosa que devuelve algo a su estado original. |
+| Celebridades  | Personas famosas o reconocidas por el público.      |
+| Despertador   | Dispositivo que emite un sonido para despertar a una persona. |
+| Proyectores   | Aparatos que proyectan imágenes o videos en una pantalla. |
+| Aceleración   | Incremento en la velocidad de un objeto.            |
+| Interpretar   | Explicar o dar significado a algo.                  |
+| Envenenados   | Personas o seres vivos afectados por veneno.        |
+| Desigualdad   | Falta de equilibrio o equidad en una situación.     |
+| Geometría     | Rama de la matemática que estudia las formas y sus propiedades. |

@@ -1,0 +1,96 @@
+| Abundante | Algo que existe en gran cantidad.                              |
+| Adivinar  | Acción de predecir o descubrir algo sin certeza.                |
+| Alegrías  | Sentimientos de felicidad o júbilo.                            |
+| Aventura  | Experiencia emocionante o inusual.                             |
+| Bancario  | Relativo a los bancos o las finanzas.                          |
+| Barbacoa  | Método de cocinar al aire libre, especialmente carne.          |
+| Bendición | Deseo de bienestar o aprobación divina.                        |
+| Biblioteca| Lugar donde se guardan libros.                                 |
+| Calabaza  | Fruto anaranjado que se usa mucho en otoño.                    |
+| Caminante | Persona que va de un lugar a otro a pie.                       |
+| Canciones | Composiciones musicales cantadas.                              |
+| Carpinter | Persona que trabaja con madera.                                |
+| Carretera | Camino ancho para vehículos.                                   |
+| Cazadora  | Prenda de vestir abrigada que se usa en invierno.              |
+| Celebrado | Evento o acto que se festeja.                                  |
+| Cerradura | Mecanismo que cierra puertas con una llave.                    |
+| Chocolate | Dulce hecho a base de cacao.                                   |
+| Cicatriz  | Marca que queda en la piel después de una herida.              |
+| Cocinero  | Persona que prepara alimentos profesionalmente.                |
+| Cosechar  | Recoger los frutos o productos del campo.                      |
+| Creativo  | Persona con mucha imaginación para crear cosas nuevas.         |
+| Cultura   | Conjunto de conocimientos, costumbres y arte de una sociedad.  |
+| Descanso  | Pausa o reposo para recuperar energía.                         |
+| Diamante  | Piedra preciosa de gran dureza y valor.                        |
+| Dinosaurio| Reptil prehistórico ya extinto.                                |
+| Directora | Mujer que dirige una institución o empresa.                    |
+| Disfrazar | Vestirse con ropa diferente para parecer otra persona.         |
+| Electric  | Relacionado con la electricidad.                               |
+| Embarazo  | Estado de una mujer que espera un hijo.                        |
+| Emergente | Algo que está comenzando a surgir o crecer.                    |
+| Encantado | Algo que causa gran fascinación o agrado.                      |
+| Espejismo | Ilusión óptica causada por el calor en el desierto o carretera.|
+| Esqueleto | Conjunto de huesos que sostiene el cuerpo humano.              |
+| Estornudo | Acción de expulsar aire por la nariz repentinamente.           |
+| Excursión | Salida o viaje corto para disfrutar del aire libre o explorar. |
+| Fabricar  | Producir objetos o bienes en una fábrica.                      |
+| Farmacia  | Lugar donde se venden medicamentos.                            |
+| Felicidad | Estado de ánimo de quien se siente completamente satisfecho.   |
+| Flamenco  | Estilo de música y baile originario de España.                 |
+| Frontera  | Límite que separa dos países o territorios.                    |
+| Futbolista| Persona que juega al fútbol de manera profesional.             |
+| Gallinero | Lugar donde se crían gallinas.                                 |
+| Generoso  | Persona que da sin esperar nada a cambio.                      |
+| Guardián  | Persona encargada de proteger un lugar o persona.              |
+| Helicóptero| Vehículo aéreo que se eleva gracias a hélices.                |
+| Herradura | Pieza de metal que se pone en las patas de los caballos.       |
+| Historial | Registro de eventos o actividades de una persona o institución.|
+| Homenaje  | Acto o ceremonia para honrar a alguien.                        |
+| Hospital  | Lugar donde se atiende a enfermos o heridos.                   |
+| Humildad  | Virtud de las personas que no se creen superiores a los demás. |
+| Huracán   | Tormenta muy fuerte con vientos violentos.                     |
+| Inesperad | Algo que ocurre sin previo aviso o de forma sorpresiva.        |
+| Instrument| Objeto usado para realizar una actividad, especialmente musical|
+| Invitados | Personas que asisten a un evento o celebración.                |
+| Jardinería| Actividad de cuidar y mantener plantas y flores.               |
+| Jugadores | Personas que participan en juegos o deportes.                  |
+| Lanzamiento| Acción de arrojar algo con fuerza.                            |
+| Lavadora  | Electrodoméstico usado para lavar ropa.                        |
+| Librería  | Tienda donde se venden libros.                                 |
+| Licuadora | Electrodoméstico para mezclar alimentos líquidos.              |
+| Limpiador | Producto o herramienta para limpiar.                           |
+| Llamarada | Fuego o luz intensa que surge repentinamente.                  |
+| Maquinaria| Conjunto de máquinas o herramientas industriales.              |
+| Maletines | Bolsos de mano utilizados para transportar documentos.         |
+| Mandarina | Fruta pequeña y naranja similar a la naranja.                  |
+| Maquillaje| Productos usados para embellecer el rostro.                    |
+| Mariposas | Insectos voladores con alas de colores.                        |
+| Meditador | Persona que reflexiona profundamente en calma.                 |
+| Melodiosa | Algo que tiene un sonido suave y agradable.                    |
+| Mentirita | Pequeña falsedad dicha sin maldad.                             |
+| Metáfora  | Figura literaria que compara dos conceptos sin usar "como".    |
+| Monasterio| Lugar de retiro religioso donde viven monjes.                  |
+| Monedero  | Pequeña bolsa o estuche para guardar monedas.                  |
+| Montaña   | Gran elevación natural del terreno.                            |
+| Mosquitos | Insectos voladores que pican y se alimentan de sangre.         |
+| Movimiento| Acción de cambiar de lugar o posición.                         |
+| Nacional  | Relacionado con una nación o país.                             |
+| Narrador  | Persona que cuenta una historia.                               |
+| Nebulosa  | Nube de polvo y gas en el espacio, donde nacen estrellas.      |
+| Novedades | Cosas o hechos que son nuevos o recientes.                     |
+| Operación | Proceso quirúrgico para tratar una enfermedad o lesión.        |
+| Optimismo | Actitud de ver el lado positivo de las cosas.                  |
+| Panadería | Lugar donde se hace y vende pan.                               |
+| Pantuflas | Calzado suave y cómodo para usar en casa.                      |
+| Paradero  | Lugar o sitio donde se encuentra alguien o algo.               |
+| Pasaporte | Documento oficial para viajar entre países.                    |
+| Película  | Obra de cine proyectada en una pantalla.                       |
+| Perritos  | Cachorros de perro.                                            |
+| Pescadería| Lugar donde se venden pescados y mariscos.                     |
+| Pintores  | Personas que se dedican a pintar cuadros.                      |
+| Plenitud  | Estado de completo bienestar o satisfacción.                   |
+| Preguntar | Acción de pedir información sobre algo.                        |
+| President | Líder o jefe de un país o una organización.                    |
+| Primavera | Estación del año en la que florecen las plantas.               |
+| Proyectos | Planes o ideas que se desarrollan para lograr un objetivo.     |
+| Reciclaje | Proceso de reutilización de materiales.                        |
