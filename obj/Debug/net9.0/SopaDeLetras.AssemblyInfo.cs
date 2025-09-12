@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SopaDeLetras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae2f3a4ddab7b096312773706fc6616cb2b041f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SopaDeLetras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SopaDeLetras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

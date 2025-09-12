@@ -12,3 +12,4 @@ D:\Proyectos de C#\Progra 3-B\SopaDeLetras\SopaDeLetras\obj\Debug\net9.0\refint\
 D:\Proyectos de C#\Progra 3-B\SopaDeLetras\SopaDeLetras\obj\Debug\net9.0\SopaDeLetras.pdb
 D:\Proyectos de C#\Progra 3-B\SopaDeLetras\SopaDeLetras\obj\Debug\net9.0\SopaDeLetras.genruntimeconfig.cache
 D:\Proyectos de C#\Progra 3-B\SopaDeLetras\SopaDeLetras\obj\Debug\net9.0\ref\SopaDeLetras.dll
+D:\Proyectos de C#\Progra 3-B\SopaDeLetras\SopaDeLetras\obj\Debug\net9.0\SopaDeLetras.sourcelink.json
