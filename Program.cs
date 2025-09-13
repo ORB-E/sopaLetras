@@ -381,6 +381,7 @@ public class Program
             try { Console.WriteLine(); } catch { }
         }
     }
-
-
 }
+
+//Brian Ramírez Reyes - 20240112
+//Brayam Ortega Rentería - 24040066
